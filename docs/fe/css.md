@@ -88,3 +88,4 @@ B 站
 - [CSS 权威指南](https://book.douban.com/subject/2308234/)
 - [深入解析 CSS](https://book.douban.com/subject/35021471/)
 - [CSS 揭秘](https://book.douban.com/subject/26745943/)
+- [CSS 新世界](https://book.douban.com/subject/35539710/)
